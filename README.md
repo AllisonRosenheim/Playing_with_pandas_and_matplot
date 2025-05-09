@@ -8,5 +8,5 @@ interpret and display data.
 
 ## Features
 - latest python version
-- Matplot module
-- Pandas module
+- matplot
+- pandas
