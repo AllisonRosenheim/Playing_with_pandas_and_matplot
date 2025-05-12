@@ -6,6 +6,8 @@ taking two courses to introduce myself to python programming. IT-140 (intro to s
 As I progress in these courses and in my own research I will update this project and explore different ways to
 interpret and display data.
 
+It will be chaotic, but I am going to do my best to make cool stuff :D
+
 ## Features
 - latest python version
 - matplot
